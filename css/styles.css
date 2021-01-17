@@ -1,0 +1,99 @@
+body{
+    margin: 0px;
+    text-align: center; /*sadece block elementleri ilgilendirir*/
+    font-family: 'Merriweather', serif;
+}
+h1{
+    margin: 50px auto 0px auto;
+    font-size: 5.625rem;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    color: #66BFBF;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+.top-container{
+    background-color: #bee5d3;
+    padding-top: 30px;
+}
+.middle-container{
+    
+}
+.bottom-container{
+    background-color: #11999E;
+
+}
+.top-cloud{
+    position: relative;
+    left: 200px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    top: 300px;
+}
+.footer-link{
+    color: #66BFBF;
+}
+.skill-row{
+    width: 50%;
+    left: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.code-img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.chillies-img{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+hr{
+    width: 10%;
+    border-width: 10px;
+    border-style: dotted none none;
+    border-color: #EAF6F6;
+    
+}
+.border-p{
+    width: 20%;
+    margin: 0px auto 10px;
+}
+.contact-me{
+line-height: 2;
+}
+.last-p{
+    margin-bottom: 0px;
+    position: relative;
+    top: 25px;
+}
+.bottom-container{
+    padding: 20px;
+    height: 100px;
+}
+.btn{
+    background-color: #66BFBF;
+    color:white;
+    text-decoration: none;
+    padding: 10px;
+    display: inline-block;
+    margin: 10px;
+    border-radius: 10px;
+
+}
+.footer-link{
+    margin: 50px;
+    text-decoration: none;
+    color: #66BFBF;
+}
